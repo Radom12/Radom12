@@ -49,7 +49,8 @@ I'm an Information Science and Engineering graduate with a passion for building 
 
 ## Achievements
 
-<img src="https://photos.app.goo.gl/r7UYSenxcS314hUL7" alt="Achievement Photo" width="200"> 
+![Achivement](https://github.com/user-attachments/assets/2c84f196-1317-4299-a982-3d3f0ad51e86)
+
 
 * Achieved **Institute Rank 5** on GeeksforGeeks.
 * Led the Men's Chess team to the **State-level VTU tournament**.
