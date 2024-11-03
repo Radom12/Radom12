@@ -1,7 +1,7 @@
 # Abhyudith Bharadhwaj - Aspiring Software Engineer & AI Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Radom12) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/) 
 
 ## About Me
 
@@ -15,15 +15,12 @@ I'm an Information Science and Engineering graduate with a passion for building 
 ## 🌱 Currently Learning
 - **Advanced Machine Learning techniques:** Deep Reinforcement Learning, Generative Adversarial Networks (GANs)
 - **Cloud Computing platforms:** AWS, Azure, GCP
+- **Data Engineering Concepts:** ETL, Pipeline's
 - **MLOps:** Best practices for deploying and managing machine learning models in production
 
 ## 👯 Looking to Collaborate On
 - Open-source projects related to AI, Machine Learning, or Web Development
 - Hackathons and coding challenges that focus on solving real-world problems
-
-## 🤔 Looking for Help With
-- Contributing to the open-source community
-- Finding mentorship opportunities in the field of AI/ML
 
 ## 💬 Ask Me About
 - My experience with Python, Machine Learning, and Cybersecurity
@@ -31,8 +28,8 @@ I'm an Information Science and Engineering graduate with a passion for building 
 - My passion for AI and its potential to impact society
 
 ## 📫 How to Reach Me
-- Connect with me on LinkedIn: [your LinkedIn profile URL]
-- Send me an email: [your email address]
+- Connect with me on LinkedIn: [https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/]
+- Send me an email: [abhyudith03@gmail.com]
 
 ## ⚡ Fun Fact
 - I'm an avid chess player and have led my college team to state-level tournaments.
@@ -42,8 +39,7 @@ I'm an Information Science and Engineering graduate with a passion for building 
 * **R.V. Institute of Technology and Management** - B.E, Information Science and Engineering (ISE)
     * Relevant Coursework: DBMS, OOPS, Data Structures and Algorithms, Computer Networks
     * **Achievements:**
-        * Led Men's Chess team to the State-level VTU tournament.
-        * Achieved Institute Rank 5 on GeeksforGeeks.
+        * Achieved Institute Rank 4 on GeeksforGeeks.
 
 ## Work Experience
 
@@ -56,14 +52,14 @@ I'm an Information Science and Engineering graduate with a passion for building 
 
 ## Projects
 
-* **Apartment Management System** ([GitHub Link](your-github-repo-link)) 
+* **Apartment Management System** ([GitHub Link](https://github.com/Radom12/DBMS-Apartment-Management-System-Project)) 
     * ![Apartment Management System Screenshot](link-to-your-screenshot) 
     * Developed a system for managing apartment complexes, including tenant and lease management, maintenance request tracking, and automated billing using PHP, MySQL, HTML, CSS, and JavaScript.
-* **Stock Prediction Using ML** ([GitHub Link](your-github-repo-link))
+* **Stock Prediction Using ML** ([GitHub Link](https://github.com/Radom12/StockPredictior))
     * Created a machine learning model to predict stock prices using Python, TensorFlow, Keras, pandas, and scikit-learn; included data preprocessing, time series forecasting, and performance visualization.
-* **Topic Modelling and Document Clustering** ([GitHub Link](your-github-repo-link))
+* **Topic Modelling and Document Clustering** ([GitHub Link](https://github.com/Radom12/TextMining_Project))
     * Implemented text preprocessing, LDA for topic modeling, and K-means clustering using Python, Gensim, and scikit-learn to organize and analyze large text datasets.
-* **AI Resume Analyzer and Job Finder** ([GitHub Link](your-github-repo-link))
+* **AI Resume Analyzer and Job Finder** ([GitHub Link](https://github.com/Radom12/AI_Resume_Analyzer))
     * Developed an AI system using Python, Streamlit, TensorFlow, NLTK, and BeautifulSoup for resume parsing, job description analysis, and matching candidates with suitable job openings.
 
 **For a complete list of all projects, please refer to my GitHub profile.**
