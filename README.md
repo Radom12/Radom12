@@ -22,10 +22,18 @@ I'm an Information Science and Engineering graduate with a passion for building 
 - Open-source projects related to AI, Machine Learning, or Web Development
 - Hackathons and coding challenges that focus on solving real-world problems
 
-## 💬 Ask Me About
-- My experience with Python, Machine Learning, and Cybersecurity
-- My projects and the technologies I used to build them
-- My passion for AI and its potential to impact society
+## Projects
+
+* **Apartment Management System** ([GitHub Link](https://github.com/Radom12/DBMS-Apartment-Management-System-Project)) 
+    * Developed a system for managing apartment complexes, including tenant and lease management, maintenance request tracking, and automated billing using PHP, MySQL, HTML, CSS, and JavaScript.
+* **Stock Prediction Using ML** ([GitHub Link](https://github.com/Radom12/StockPredictior))
+    * Created a machine learning model to predict stock prices using Python, TensorFlow, Keras, pandas, and scikit-learn; included data preprocessing, time series forecasting, and performance visualization.
+* **Topic Modelling and Document Clustering** ([GitHub Link](https://github.com/Radom12/TextMining_Project))
+    * Implemented text preprocessing, LDA for topic modeling, and K-means clustering using Python, Gensim, and scikit-learn to organize and analyze large text datasets.
+* **AI Resume Analyzer and Job Finder** ([GitHub Link](https://github.com/Radom12/AI_Resume_Analyzer))
+    * Developed an AI system using Python, Streamlit, TensorFlow, NLTK, and BeautifulSoup for resume parsing, job description analysis, and matching candidates with suitable job openings.
+
+**For a complete list of all projects, please refer to my GitHub profile.**
 
 ## 📫 How to Reach Me
 - Connect with me on LinkedIn: [https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/]
@@ -41,28 +49,6 @@ I'm an Information Science and Engineering graduate with a passion for building 
     * **Achievements:**
         * Achieved Institute Rank 4 on GeeksforGeeks.
 
-## Work Experience
-
-* **Intern** at yHills, Bengaluru, KA (Oct 2022 - Dec 2022)
-    * Conducted comprehensive security assessments on Windows 7 systems using Kali Linux and Metasploit.
-    * Identified, exploited, and documented security vulnerabilities, contributing to a 10% improvement in system security. 
-* **Intern** at Rainbow Kids, Bengaluru, KA (Nov 2023 - Feb 2024)
-    * Developed and designed advertisements to promote school programs and events, resulting in a 15% increase in program enrollment.
-    * Implemented SEO strategies to enhance the school's online presence and contributed to marketing campaigns that generated a 10% increase in revenue over a six-month period.
-
-## Projects
-
-* **Apartment Management System** ([GitHub Link](https://github.com/Radom12/DBMS-Apartment-Management-System-Project)) 
-    * ![Apartment Management System Screenshot](link-to-your-screenshot) 
-    * Developed a system for managing apartment complexes, including tenant and lease management, maintenance request tracking, and automated billing using PHP, MySQL, HTML, CSS, and JavaScript.
-* **Stock Prediction Using ML** ([GitHub Link](https://github.com/Radom12/StockPredictior))
-    * Created a machine learning model to predict stock prices using Python, TensorFlow, Keras, pandas, and scikit-learn; included data preprocessing, time series forecasting, and performance visualization.
-* **Topic Modelling and Document Clustering** ([GitHub Link](https://github.com/Radom12/TextMining_Project))
-    * Implemented text preprocessing, LDA for topic modeling, and K-means clustering using Python, Gensim, and scikit-learn to organize and analyze large text datasets.
-* **AI Resume Analyzer and Job Finder** ([GitHub Link](https://github.com/Radom12/AI_Resume_Analyzer))
-    * Developed an AI system using Python, Streamlit, TensorFlow, NLTK, and BeautifulSoup for resume parsing, job description analysis, and matching candidates with suitable job openings.
-
-**For a complete list of all projects, please refer to my GitHub profile.**
 
 ## Skills
 
@@ -70,7 +56,7 @@ I'm an Information Science and Engineering graduate with a passion for building 
 |------------------|-------------------------------------------|
 | Programming      | Java, Python, JavaScript, PHP, HTML, CSS |
 | ML/AI           | TensorFlow, Keras, scikit-learn, Gensim, NLTK |
-| Web Development  | Django                                    |
+|Full Stack | Django                                    |
 | Databases        | MySQL                                     |
 | Tools            | MS Office, Kali Linux, Metasploit         |
 | Soft Skills      | Leadership, Time Management, Adaptability, Communication, Teamwork, Problem Solving |
