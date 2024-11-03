@@ -44,7 +44,7 @@ I'm an Information Science and Engineering graduate with a passion for building 
 
 ## Education
 
-* **R.V. Institute of Technology and Management** - B.E, Information Science and Engineering (ISE)
+- **R.V. Institute of Technology and Management** - B.E, Information Science and Engineering (ISE)
     * Relevant Coursework: DBMS, OOPS, Data Structures and Algorithms, Computer Networks
 
 ## Achievements
