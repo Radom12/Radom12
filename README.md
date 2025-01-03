@@ -34,7 +34,7 @@ I'm an Information Science and Engineering graduate with a passion for building 
     * Developed an AI system using Python, Streamlit, TensorFlow, NLTK, and BeautifulSoup for resume parsing, job description analysis, and matching candidates with suitable job openings.
 
 **For a complete list of all projects, please refer to my GitHub profile.**
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radom12&hide=javascript,css,scss,html&theme=tokyonight)
 ## 📫 How to Reach Me
 - Connect with me on LinkedIn: [https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/]
 - Send me an email: [abhyudith03@gmail.com]
