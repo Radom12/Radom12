@@ -49,8 +49,8 @@ I'm an Information Science and Engineering graduate with a passion for building 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&logo=hack&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/HTML-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/CSS-878787?style=for-the-badge&logo=hack&logoColor=white" alt="CSS" />
     </p>
 </div>
 
