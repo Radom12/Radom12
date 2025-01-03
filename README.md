@@ -1,4 +1,4 @@
-# Abhyudith Bharadhwaj - Aspiring Software Engineer & AI Enthusiast
+# Abhyudith Bharadhwaj - Aspiring Data Engineer & AI Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Radom12) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/) 
@@ -49,8 +49,8 @@ I'm an Information Science and Engineering graduate with a passion for building 
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-        <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&logo=hack&logoColor=white" alt="Hack" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&logo=hack&logoColor=white" alt="CSS" />
     </p>
 </div>
 
