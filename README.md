@@ -33,11 +33,62 @@ I'm an Information Science and Engineering graduate with a passion for building 
 * **AI Resume Analyzer and Job Finder** ([GitHub Link](https://github.com/Radom12/AI_Resume_Analyzer))
     * Developed an AI system using Python, Streamlit, TensorFlow, NLTK, and BeautifulSoup for resume parsing, job description analysis, and matching candidates with suitable job openings.
 
-**For a complete list of all projects, please refer to my GitHub profile.**
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Radom12&hide=javascript,css,scss,html&theme=tokyonight)
+**For a complete list of all projects, please refer to my [GitHub profile](https://github.com/Radom12).**
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radom12&layout=compact&theme=tokyonight" alt="Top Languages" width="400">
+</p>
+
+<br>
+
+<div>
+    <p><strong>Most Used Languages</strong></p>
+    <p align="left">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+        <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&logo=hack&logoColor=white" alt="Hack" />
+    </p>
+    <div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th>Language</th>
+                <th>Percentage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Python</td>
+                <td align="right">81.16%</td>
+            </tr>
+            <tr>
+                <td>Jupyter Notebook</td>
+                <td align="right">17.17%</td>
+            </tr>
+            <tr>
+                <td>PHP</td>
+                <td align="right">1.38%</td>
+            </tr>
+            <tr>
+                <td>PowerShell</td>
+                <td align="right">0.18%</td>
+            </tr>
+            <tr>
+                <td>Hack</td>
+                <td align="right">0.11%</td>
+            </tr>
+        </tbody>
+    </table>
+    </div>
+</div>
+
 ## 📫 How to Reach Me
-- Connect with me on LinkedIn: [https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/]
-- Send me an email: [abhyudith03@gmail.com]
+- Connect with me on LinkedIn: [https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/](https://www.linkedin.com/in/abhyudith-bharadhwaj-047b99252/)
+- Send me an email: [abhyudith03@gmail.com](mailto:abhyudith03@gmail.com)
 
 ## ⚡ Fun Fact
 - I'm an avid chess player and have led my college team to state-level tournaments.
@@ -50,7 +101,6 @@ I'm an Information Science and Engineering graduate with a passion for building 
 ## Achievements
 
 ![Achivement](https://github.com/user-attachments/assets/2c84f196-1317-4299-a982-3d3f0ad51e86)
-
 
 * Achieved **Institute Rank 5** on GeeksforGeeks.
 * Led the Men's Chess team to the **State-level VTU tournament**.
@@ -65,6 +115,5 @@ I'm an Information Science and Engineering graduate with a passion for building 
 | Databases        | MySQL                                     |
 | Tools            | MS Office, Kali Linux, Metasploit         |
 | Soft Skills      | Leadership, Time Management, Adaptability, Communication, Teamwork, Problem Solving |
-
 
 ---
