@@ -52,38 +52,6 @@ I'm an Information Science and Engineering graduate with a passion for building 
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
         <img src="https://img.shields.io/badge/Hack-878787?style=for-the-badge&logo=hack&logoColor=white" alt="Hack" />
     </p>
-    <div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th>Language</th>
-                <th>Percentage</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Python</td>
-                <td align="right">81.16%</td>
-            </tr>
-            <tr>
-                <td>Jupyter Notebook</td>
-                <td align="right">17.17%</td>
-            </tr>
-            <tr>
-                <td>PHP</td>
-                <td align="right">1.38%</td>
-            </tr>
-            <tr>
-                <td>PowerShell</td>
-                <td align="right">0.18%</td>
-            </tr>
-            <tr>
-                <td>Hack</td>
-                <td align="right">0.11%</td>
-            </tr>
-        </tbody>
-    </table>
-    </div>
 </div>
 
 ## 📫 How to Reach Me
