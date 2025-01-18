@@ -33,10 +33,6 @@ I'm a final-year student pursuing a B.E. in Information Science and Engineering 
 
 ## Work Experience
 
-*   **MiQ Digital** - Data Engineer Intern (Jan. 2025 - Present)
-    *   \[Placeholder for 2-3 bullet points describing responsibilities and accomplishments at MiQ]
-    *   Example: Developed ETL pipelines using Python and Spark to process 1400 GB of data daily, improving efficiency by 30%.
-    *   Example: Contributed to data warehouse design on AWS, using S3, Redshift, and Glue.
 *   **RainbowKids** - Marketing Intern (Oct. 2023 - Jan. 2024)
     *   Developed targeted advertisements and implemented SEO strategies that increased website traffic by 15% and improved search engine rankings by 10%.
     *   Oversaw marketing campaigns that resulted in a 12% increase in revenue, demonstrating the effectiveness of implemented strategies.
