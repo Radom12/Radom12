@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm a recent graduate with a B.E. in Information Science and Engineering from R.V. Institute of Technology and Management. I'm passionate about data engineering and eager to build innovative solutions that leverage the power of data. My experience includes developing ETL pipelines, designing data warehouses, and applying machine learning techniques to solve real-world problems. I'm a quick learner, a dedicated worker, and I thrive in collaborative environments where I can contribute to challenging projects.
+I'm a final-year student pursuing a B.E. in Information Science and Engineering at R.V. Institute of Technology and Management. I'm passionate about data engineering and eager to build innovative solutions that leverage the power of data. My coursework and projects have provided me with experience in developing ETL pipelines, designing data warehouses, and applying machine learning techniques to solve real-world problems. I'm a quick learner, a dedicated worker, and I thrive in collaborative environments where I can contribute to challenging projects. I am excited to apply my skills and knowledge to a challenging and rewarding data engineering internship.
 
 ## 🔭 Currently Working On
 
