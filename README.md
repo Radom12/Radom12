@@ -99,9 +99,9 @@ I'm a final-year student pursuing a B.E. in Information Science and Engineering 
 | Programming       | Java, Python, JavaScript, PHP, HTML, CSS, SQL                          |
 | ML/AI             | TensorFlow, Keras, scikit-learn, Gensim, NLTK, pandas                  |
 | Databases         | MySQL, PostgreSQL                                                      |
-| Cloud             | AWS (S3, Redshift, Glue, Lambda, Kinesis, EMR)                          |
+| Cloud             | AWS (S3, Lambda, EC2, EMR)                          |
 | Data Engineering  | ETL, Data Warehousing, Data Pipelines, Data Modeling                    |
-| Tools             | Git, Docker, Kubernetes, MS Office, Kali Linux, Metasploit             |
+| Tools             | Git, Docker, MS Office, Kali Linux, Metasploit             |
 | Soft Skills       | Leadership, Time Management, Adaptability, Communication, Teamwork, Problem Solving |
 
 ---
