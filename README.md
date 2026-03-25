@@ -33,8 +33,8 @@ I'm a **Data Engineer** based in Bengaluru, passionate about distributed systems
 
 ### 🚀 Featured Projects
 
-* 📦 **[OptiSpark](#)**: Autonomous Spark optimization agent using LLMs to diagnose data skew and generate real-time PySpark code fixes.
-* 📄 **[AI Resume Analyzer](#)**: Intelligent resume parsing and job matching system utilizing Python, TensorFlow, and NLTK.
+* 📦 **[OptiSpark](github.com/Radom12/OptiSpark)**: Autonomous Spark optimization agent using LLMs to diagnose data skew and generate real-time PySpark code fixes.
+* 📄 **[AI Resume Analyzer](https://github.com/Radom12/AI_Resume_Analyzer)**: Intelligent resume parsing and job matching system utilizing Python, TensorFlow, and NLTK.
 * 📉 **[Bankruptcy Prediction Tool](https://github.com/Radom12/Bankruptcy_Prediction)**: Predictive analytics tool leveraging Machine Learning and Pandas to provide actionable risk assessments.
 * 🎥 **[Real-Time Video Captioning System](https://github.com/Radom12/Real-Time-Video-Captioning-System)**: Live video streaming caption generation integrating Computer Vision and NLP models for low-latency inference.
 
